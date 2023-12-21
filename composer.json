@@ -1,0 +1,17 @@
+{
+    "name": "rod/websocket",
+    "description": "websocket test chat",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    },
+    "authors": [
+        {
+            "name": "Rafael Doria"
+        }
+    ]
+}
